@@ -1,0 +1,177 @@
+[submodule "lab-customer-analysis-final-round"]
+	path = lab-customer-analysis-final-round
+	url = https://github.com/pedrohenriquegordo/lab-customer-analysis-final-round
+[submodule "lab-sql-9"]
+	path = lab-sql-9
+	url = https://github.com/pedrohenriquegordo/lab-sql-9
+[submodule "lab-sql-join"]
+	path = lab-sql-join
+	url = https://github.com/pedrohenriquegordo/lab-sql-join
+[submodule "lab-sql-join-multiple-tables"]
+	path = lab-sql-join-multiple-tables
+	url = https://github.com/pedrohenriquegordo/lab-sql-join-multiple-tables
+[submodule "lab-sql-self-cross-join"]
+	path = lab-sql-self-cross-join
+	url = https://github.com/pedrohenriquegordo/lab-sql-self-cross-join
+[submodule "lab-sql-iterations"]
+	path = lab-sql-iterations
+	url = https://github.com/pedrohenriquegordo/lab-sql-iterations
+[submodule "lab-sql-rolling-calculations"]
+	path = lab-sql-rolling-calculations
+	url = https://github.com/pedrohenriquegordo/lab-sql-rolling-calculations
+[submodule "lab-sql-advanced-queries"]
+	path = lab-sql-advanced-queries
+	url = https://github.com/pedrohenriquegordo/lab-sql-advanced-queries
+[submodule "lab-sql-subqueries"]
+	path = lab-sql-subqueries
+	url = https://github.com/pedrohenriquegordo/lab-sql-subqueries
+[submodule "lab-sql-8"]
+	path = lab-sql-8
+	url = https://github.com/pedrohenriquegordo/lab-sql-8
+[submodule "lab-sql-7"]
+	path = lab-sql-7
+	url = https://github.com/pedrohenriquegordo/lab-sql-7
+[submodule "lab-sql-6"]
+	path = lab-sql-6
+	url = https://github.com/pedrohenriquegordo/lab-sql-6
+[submodule "lab-sql-5"]
+	path = lab-sql-5
+	url = https://github.com/pedrohenriquegordo/lab-sql-5
+[submodule "lab-sql-basics"]
+	path = lab-sql-basics
+	url = https://github.com/pedrohenriquegordo/lab-sql-basics
+[submodule "lab-sql-4"]
+	path = lab-sql-4
+	url = https://github.com/pedrohenriquegordo/lab-sql-4
+[submodule "lab-sql-3"]
+	path = lab-sql-3
+	url = https://github.com/pedrohenriquegordo/lab-sql-3
+[submodule "lab-sql-2"]
+	path = lab-sql-2
+	url = https://github.com/pedrohenriquegordo/lab-sql-2
+[submodule "lab-intro-sql"]
+	path = lab-intro-sql
+	url = https://github.com/pedrohenriquegordo/lab-intro-sql
+[submodule "lab-unsupervised-learning-intro"]
+	path = lab-unsupervised-learning-intro
+	url = https://github.com/pedrohenriquegordo/lab-unsupervised-learning-intro
+[submodule "lab-web-scraping-single-page"]
+	path = lab-web-scraping-single-page
+	url = https://github.com/pedrohenriquegordo/lab-web-scraping-single-page
+[submodule "lab-random-forests"]
+	path = lab-random-forests
+	url = https://github.com/pedrohenriquegordo/lab-random-forests
+[submodule "lab-cross-validation"]
+	path = lab-cross-validation
+	url = https://github.com/pedrohenriquegordo/lab-cross-validation
+[submodule "lab-handling-data-imbalance-classification"]
+	path = lab-handling-data-imbalance-classification
+	url = https://github.com/pedrohenriquegordo/lab-handling-data-imbalance-classification
+[submodule "lab-inferential-statistics-anova"]
+	path = lab-inferential-statistics-anova
+	url = https://github.com/pedrohenriquegordo/lab-inferential-statistics-anova
+[submodule "lab-t-tests-p-values"]
+	path = lab-t-tests-p-values
+	url = https://github.com/pedrohenriquegordo/lab-t-tests-p-values
+[submodule "lab-inferential-statistics"]
+	path = lab-inferential-statistics
+	url = https://github.com/pedrohenriquegordo/lab-inferential-statistics
+[submodule "lab-feature-engineering"]
+	path = lab-feature-engineering
+	url = https://github.com/pedrohenriquegordo/lab-feature-engineering
+[submodule "lab-revisiting-machine-learning"]
+	path = lab-revisiting-machine-learning
+	url = https://github.com/pedrohenriquegordo/lab-revisiting-machine-learning
+[submodule "lab-stored-procedures"]
+	path = lab-stored-procedures
+	url = https://github.com/pedrohenriquegordo/lab-stored-procedures
+[submodule "lab-aggregation-revisited-subqueries"]
+	path = lab-aggregation-revisited-subqueries
+	url = https://github.com/pedrohenriquegordo/lab-aggregation-revisited-subqueries
+[submodule "lab-random-variable-distributions"]
+	path = lab-random-variable-distributions
+	url = https://github.com/pedrohenriquegordo/lab-random-variable-distributions
+[submodule "lab-comparing-regression-models"]
+	path = lab-comparing-regression-models
+	url = https://github.com/pedrohenriquegordo/lab-comparing-regression-models
+[submodule "lab-data-cleaning-and-wrangling"]
+	path = lab-data-cleaning-and-wrangling
+	url = https://github.com/pedrohenriquegordo/lab-data-cleaning-and-wrangling
+[submodule "lab-feature-extraction"]
+	path = lab-feature-extraction
+	url = https://github.com/pedrohenriquegordo/lab-feature-extraction
+[submodule "lab-cleaning-categorical-data"]
+	path = lab-cleaning-categorical-data
+	url = https://github.com/pedrohenriquegordo/lab-cleaning-categorical-data
+[submodule "lab-cleaning-numerical-data"]
+	path = lab-cleaning-numerical-data
+	url = https://github.com/pedrohenriquegordo/lab-cleaning-numerical-data
+[submodule "lab-imbalanced-data"]
+	path = lab-imbalanced-data
+	url = https://github.com/pedrohenriquegordo/lab-imbalanced-data
+[submodule "lab-predictions-logistic-regression"]
+	path = lab-predictions-logistic-regression
+	url = https://github.com/pedrohenriquegordo/lab-predictions-logistic-regression
+[submodule "lab-database-normalization"]
+	path = lab-database-normalization
+	url = https://github.com/pedrohenriquegordo/lab-database-normalization
+[submodule "lab-customer-analysis-round-3"]
+	path = lab-customer-analysis-round-3
+	url = https://github.com/pedrohenriquegordo/lab-customer-analysis-round-3
+[submodule "lab-customer-analysis-round-2"]
+	path = lab-customer-analysis-round-2
+	url = https://github.com/pedrohenriquegordo/lab-customer-analysis-round-2
+[submodule "lab-customer-analysis-round-1"]
+	path = lab-customer-analysis-round-1
+	url = https://github.com/pedrohenriquegordo/lab-customer-analysis-round-1
+[submodule "lab-bash"]
+	path = lab-bash
+	url = https://github.com/pedrohenriquegordo/lab-bash
+[submodule "lab-customer-analysis-round-4"]
+	path = lab-customer-analysis-round-4
+	url = https://github.com/pedrohenriquegordo/lab-customer-analysis-round-4
+[submodule "lab-macros-intro"]
+	path = lab-macros-intro
+	url = https://github.com/pedrohenriquegordo/lab-macros-intro
+[submodule "lab-customer-analysis-round-6"]
+	path = lab-customer-analysis-round-6
+	url = https://github.com/pedrohenriquegordo/lab-customer-analysis-round-6
+[submodule "lab-customer-analysis-round-7"]
+	path = lab-customer-analysis-round-7
+	url = https://github.com/pedrohenriquegordo/lab-customer-analysis-round-7
+[submodule "lab-getting-started-with-tableau"]
+	path = lab-getting-started-with-tableau
+	url = https://github.com/pedrohenriquegordo/lab-getting-started-with-tableau
+[submodule "lab-customer-analysis-round-5"]
+	path = lab-customer-analysis-round-5
+	url = https://github.com/pedrohenriquegordo/lab-customer-analysis-round-5
+[submodule "lab-api-wrappers"]
+	path = lab-api-wrappers
+	url = https://github.com/pedrohenriquegordo/lab-api-wrappers
+[submodule "lab-grouping-data"]
+	path = lab-grouping-data
+	url = https://github.com/pedrohenriquegordo/lab-grouping-data
+[submodule "lab-working-with-api"]
+	path = lab-working-with-api
+	url = https://github.com/pedrohenriquegordo/lab-working-with-api
+[submodule "lab-web-scraping-multiple-pages"]
+	path = lab-web-scraping-multiple-pages
+	url = https://github.com/pedrohenriquegordo/lab-web-scraping-multiple-pages
+[submodule "lab-tableau-manipulating-data-from-multiple-sources"]
+	path = lab-tableau-manipulating-data-from-multiple-sources
+	url = https://github.com/pedrohenriquegordo/lab-tableau-manipulating-data-from-multiple-sources
+[submodule "data_2.02_activities"]
+	path = data_2.02_activities
+	url = https://github.com/pedrohenriquegordo/data_2.02_activities
+[submodule "IronPedro"]
+	path = IronPedro
+	url = https://github.com/pedrohenriquegordo/IronPedro
+[submodule "IronEla"]
+	path = IronEla
+	url = https://github.com/pedrohenriquegordo/IronEla
+[submodule "data_2.03_activities"]
+	path = data_2.03_activities
+	url = https://github.com/pedrohenriquegordo/data_2.03_activities
+[submodule "data_2.01_activities"]
+	path = data_2.01_activities
+	url = https://github.com/pedrohenriquegordo/data_2.01_activities
